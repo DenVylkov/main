@@ -1,0 +1,15 @@
+/Users/denis/Documents/УЧЕБА/C#/Example/Eample001_HelloConsole/bin/Debug/net6.0/Eample001_HelloConsole
+/Users/denis/Documents/УЧЕБА/C#/Example/Eample001_HelloConsole/bin/Debug/net6.0/Eample001_HelloConsole.deps.json
+/Users/denis/Documents/УЧЕБА/C#/Example/Eample001_HelloConsole/bin/Debug/net6.0/Eample001_HelloConsole.runtimeconfig.json
+/Users/denis/Documents/УЧЕБА/C#/Example/Eample001_HelloConsole/bin/Debug/net6.0/Eample001_HelloConsole.dll
+/Users/denis/Documents/УЧЕБА/C#/Example/Eample001_HelloConsole/bin/Debug/net6.0/Eample001_HelloConsole.pdb
+/Users/denis/Documents/УЧЕБА/C#/Example/Eample001_HelloConsole/obj/Debug/net6.0/Eample001_HelloConsole.csproj.AssemblyReference.cache
+/Users/denis/Documents/УЧЕБА/C#/Example/Eample001_HelloConsole/obj/Debug/net6.0/Eample001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denis/Documents/УЧЕБА/C#/Example/Eample001_HelloConsole/obj/Debug/net6.0/Eample001_HelloConsole.AssemblyInfoInputs.cache
+/Users/denis/Documents/УЧЕБА/C#/Example/Eample001_HelloConsole/obj/Debug/net6.0/Eample001_HelloConsole.AssemblyInfo.cs
+/Users/denis/Documents/УЧЕБА/C#/Example/Eample001_HelloConsole/obj/Debug/net6.0/Eample001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/denis/Documents/УЧЕБА/C#/Example/Eample001_HelloConsole/obj/Debug/net6.0/Eample001_HelloConsole.dll
+/Users/denis/Documents/УЧЕБА/C#/Example/Eample001_HelloConsole/obj/Debug/net6.0/refint/Eample001_HelloConsole.dll
+/Users/denis/Documents/УЧЕБА/C#/Example/Eample001_HelloConsole/obj/Debug/net6.0/Eample001_HelloConsole.pdb
+/Users/denis/Documents/УЧЕБА/C#/Example/Eample001_HelloConsole/obj/Debug/net6.0/Eample001_HelloConsole.genruntimeconfig.cache
+/Users/denis/Documents/УЧЕБА/C#/Example/Eample001_HelloConsole/obj/Debug/net6.0/ref/Eample001_HelloConsole.dll
